@@ -1,0 +1,5 @@
+- experiment=test
+- simulation.carla.spawn=False
+- simulation.carla.host=carla
+- simulation.world_name=Town10HD
+- seed=150
