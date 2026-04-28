@@ -171,6 +171,8 @@ class VideoQuiz {
   resetFeedback() {
     this.feedbackContainer.classList.add('hidden');
     this.feedbackContent.classList.remove('alert-success', 'alert-error');
+    this.normalBtn.classList.remove('btn-success', 'btn-error');
+    this.anomalyBtn.classList.remove('btn-success', 'btn-error');
   }
 
   nextVideo() {
