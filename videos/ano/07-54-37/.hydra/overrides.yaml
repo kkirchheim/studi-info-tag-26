@@ -1,5 +1,0 @@
-- experiment=ano-test-08-trafficlight-flicker
-- simulation.carla.spawn=False
-- simulation.carla.host=carla
-- simulation.world_name=Town01
-- seed=196

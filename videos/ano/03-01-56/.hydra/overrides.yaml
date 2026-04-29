@@ -1,5 +1,0 @@
-- experiment=ano-test-06-steer-driver.yaml
-- simulation.carla.spawn=False
-- simulation.carla.host=carla
-- simulation.world_name=Town01
-- seed=183
