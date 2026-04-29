@@ -3,8 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <base href="/studi-info-tag-26/">
+    <base href="/">
     <title>Video Klassifizierung Quiz</title>
+    <script>
+        // Set correct base path for GitHub Pages vs local dev
+        const isGitHubPages = window.location.hostname.includes('github.io');
+        if (isGitHubPages) {
+            document.querySelector('base').href = '/studi-info-tag-26/';
+        }
+    </script>
 
     <!-- Tailwind CSS + DaisyUI -->
     <script src="https://cdn.tailwindcss.com"></script>

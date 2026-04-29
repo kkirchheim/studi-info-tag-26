@@ -1,17 +1,35 @@
 {
-  "generated": "2026-04-28T15:01:22.376Z",
+  "generated": "2026-04-29T11:42:55.936Z",
   "videos": [
     {
-      "id": "ano-11-41-57",
+      "id": "ano-03-01-56",
       "category": "anomaly",
-      "timestamp": "11-41-57",
-      "path": "videos/ano/11-41-57/video/rgb-front.mp4"
+      "timestamp": "03-01-56",
+      "path": "videos/ano/03-01-56/video/rgb-front.mp4"
     },
     {
-      "id": "normal-11-41-57",
+      "id": "normal-05-13-58",
       "category": "normal",
-      "timestamp": "11-41-57",
-      "path": "videos/normal/11-41-57/video/rgb-front.mp4"
+      "timestamp": "05-13-58",
+      "path": "videos/normal/05-13-58/video/rgb-front.mp4"
+    },
+    {
+      "id": "ano-07-54-37",
+      "category": "anomaly",
+      "timestamp": "07-54-37",
+      "path": "videos/ano/07-54-37/video/rgb-front.mp4"
+    },
+    {
+      "id": "ano-19-48-20",
+      "category": "anomaly",
+      "timestamp": "19-48-20",
+      "path": "videos/ano/19-48-20/video/rgb-front.mp4"
+    },
+    {
+      "id": "normal-20-32-59",
+      "category": "normal",
+      "timestamp": "20-32-59",
+      "path": "videos/normal/20-32-59/video/rgb-front.mp4"
     }
   ]
 }
