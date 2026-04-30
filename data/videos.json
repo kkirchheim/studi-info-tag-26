@@ -1,11 +1,17 @@
 {
-  "generated": "2026-04-29T11:42:55.936Z",
+  "generated": "2026-04-30T08:41:33.205Z",
   "videos": [
     {
       "id": "ano-03-01-56",
       "category": "anomaly",
       "timestamp": "03-01-56",
       "path": "videos/ano/03-01-56/video/rgb-front.mp4"
+    },
+    {
+      "id": "ano-04-09-15",
+      "category": "anomaly",
+      "timestamp": "04-09-15",
+      "path": "videos/ano/04-09-15/video/rgb-front.mp4"
     },
     {
       "id": "normal-05-13-58",
